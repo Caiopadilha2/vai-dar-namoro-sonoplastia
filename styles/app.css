@@ -1,0 +1,53 @@
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 50px;
+
+  padding: 50px;
+
+  min-height: 100vh;
+}
+
+#app h1 {
+  font-family: 'Archivo Black';
+  text-transform: uppercase;
+  font-weight: 400;
+  text-align: center;
+  font-size: 4rem;
+  text-shadow: 4px 4px var(--red);
+
+  line-height: 3.5rem;
+
+  max-width: 600px;
+  width: 100%;
+}
+
+.bck-heart {
+  position: fixed;
+  inset: 0;
+  background: url('../assets/heart.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-size: 1000px;
+
+  z-index: -1;
+  opacity: 0.1;
+}
+
+.bck-heart-small {
+  position: fixed;
+  inset: 0;
+
+  background: url('../assets/heart.png'), url('../assets/heart.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left 30px, right 400px;
+  /* // Essas são as alturas em relação ao topo */
+
+  background-size: 500px, 450px;
+
+  z-index: -1;
+  opacity: 0.1;
+}
