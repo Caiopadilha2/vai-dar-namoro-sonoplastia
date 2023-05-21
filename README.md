@@ -1,6 +1,5 @@
 # vai-dar-namoro-sonoplastia
 
-## 🚧🚧🚧 EM CONSTRUÇÃO 🚧🚧🚧 ##
 
 Projeto realizado acompanhando o vídeo do Leo Vargas, em seu canal do Youtube. Feito com HTML, CSS E JavaScript.
 
