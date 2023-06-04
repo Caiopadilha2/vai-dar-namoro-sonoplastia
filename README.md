@@ -1,5 +1,6 @@
 # vai-dar-namoro-sonoplastia
 
+Acesse o projeto: https://vai-dar-namoro-sonoplastia.vercel.app/
 
 Projeto realizado acompanhando o vídeo do Leo Vargas, em seu canal do Youtube. Feito com HTML, CSS E JavaScript.
 
